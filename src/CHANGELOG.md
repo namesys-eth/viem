@@ -1,5 +1,15 @@
 # viem
 
+## 2.21.16
+
+### Patch Changes
+
+- [#2780](https://github.com/wevm/viem/pull/2780) [`e0e0955c`](https://github.com/wevm/viem/commit/e0e0955c6cbe1c32c2ea35f5d39662ec25f392cf) Thanks [@sina-london](https://github.com/sina-london)! - Added fusion chain
+
+- [#2779](https://github.com/wevm/viem/pull/2779) [`9a7461ec`](https://github.com/wevm/viem/commit/9a7461ec0377c8d9c53a8e152c553066408c2433) Thanks [@tom-jordan1](https://github.com/tom-jordan1)! - Added hychain.
+
+- [#2781](https://github.com/wevm/viem/pull/2781) [`9d7d1602`](https://github.com/wevm/viem/commit/9d7d1602aa103f9db15f2b696944430c8ef643f7) Thanks [@peterhappynow](https://github.com/peterhappynow)! - Added Multicall address for `areon`.
+
 ## 2.21.15
 
 ### Patch Changes
